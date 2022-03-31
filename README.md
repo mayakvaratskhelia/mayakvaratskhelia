@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/9003226/screenshots/16563890/women-web-developer-illustrator-397768.jpg" />
+<p align="center" >
+  <img heigth="500" width="500" src="https://cdn.dribbble.com/users/9003226/screenshots/16563890/women-web-developer-illustrator-397768.jpg" />
   </p>
 <h1 align="center">Hi 👋, I'm maya kvaratskhelia</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
